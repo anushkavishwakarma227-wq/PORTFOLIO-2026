@@ -1,6 +1,8 @@
 {
-  "name": "Anushka Vishwakarma Portfolio",
+  "name": "PORTFOLIO",
   "description": "Portfolio of Anushka Vishwakarma, B.Tech student in Artificial Intelligence & Data Science at REVA University featuring AI, Robotics, IoT and Embedded projects.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
